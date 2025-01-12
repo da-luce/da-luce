@@ -1,10 +1,10 @@
 ## Hi! 👋
 
-- 🐻 I'm an ECE student at Cornell, minoring in CS
-- 🌎 From computer architecture to web development, my interests cover a lot of ground...
-- 🎯 But, you’ll most often find me diving into code with C and Rust
-- 🌐 Check out my [website and blog](https://www.daltonluce.com/)
-- 🤝 Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dalton-luce)
+- 🐻 I'm an Electrical and Computer Engineering student at Cornell
+- 🗺️ From computer architecture to web development, my interests cover a lot of ground...
+- 📍 Yet, you’ll most often find me diving into code with C and Rust
+- 🌐 Curious about what I’m up to? Check out my [website](https://www.daltonluce.com/) and blog
+- 🤝 Always open to connecting—reach out to me [LinkedIn](https://www.linkedin.com/in/dalton-luce)!
 
 <!--
 **da-luce/da-luce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
