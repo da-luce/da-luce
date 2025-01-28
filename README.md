@@ -4,7 +4,7 @@
 - 🗺️ From computer architecture to web development, my interests cover a lot of ground...
 - 📍 Yet, you’ll most often find me diving into code with C and Rust
 - 🌐 Curious about what I’m up to? Check out my [website](https://www.daltonluce.com/) and blog
-- 🤝 Always open to connecting—reach out to me [LinkedIn](https://www.linkedin.com/in/dalton-luce)!
+- 🤝 Always open to connecting—reach out to me on [LinkedIn](https://www.linkedin.com/in/dalton-luce)!
 
 <!--
 **da-luce/da-luce** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
